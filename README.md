@@ -1,1 +1,0 @@
-minor_studio_pr1me
